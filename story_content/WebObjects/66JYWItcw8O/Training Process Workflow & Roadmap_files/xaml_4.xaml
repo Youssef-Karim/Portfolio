@@ -1,0 +1,16 @@
+<Canvas Height="1122.5" Name="Workspace" Width="1587.4" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<!-- Page Induction Workflow -->
+	<Canvas Width="1587.4" Height="1122.5" Name="D">
+		<Canvas.Background>
+			<SolidColorBrush Color="#FFFFFFFF"/>
+		</Canvas.Background>
+		<Canvas Tag="_1" Name="_1" RenderTransform="1, 0, 0, 1, 24, -130.170466">
+			<Image Name="img6_1" Source="A701C4C2-E67C-43E8-88F6-43556D62DBFF.png" Stretch="Fill" Canvas.Left="0"
+					Canvas.Top="261.999" Width="1539.4" Height="860.521" Opacity="1">
+				<Image.Clip>
+					<RectangleGeometry Rect="0, 0, 1539.4, 860.521"/>
+				</Image.Clip>
+			</Image>
+		</Canvas>
+	</Canvas>
+</Canvas>
